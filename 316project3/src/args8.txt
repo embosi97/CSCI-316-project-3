@@ -1,0 +1,47 @@
+-----------------------------------------------------------
+The total number of function calls so far = 5
+The maximum stack size so far = 5
+
+The ARs of the runtime stack will be displayed from top to bottom:
+
+1: ARprimary
+2: ARterm
+3: ARE
+4: ARassignment
+5: ARassignmentList
+-----------------------------------------------------------
+The total number of function calls so far = 10
+The maximum stack size so far = 6
+
+The ARs of the runtime stack will be displayed from top to bottom:
+
+1: ARprimary
+2: ARterm
+3: ARE
+4: ARassignment
+5: ARassignmentList
+6: ARassignmentList
+-----------------------------------------------------------
+The total number of function calls so far = 15
+The maximum stack size so far = 6
+
+The ARs of the runtime stack will be displayed from top to bottom:
+
+1: AREvalPrimary
+2: ARterm
+3: AREvalE
+4: ARassignment
+5: ARassignmentList
+6: ARassignmentList
+-----------------------------------------------------------
+The total number of function calls so far = 20
+The maximum stack size so far = 6
+
+The ARs of the runtime stack will be displayed from top to bottom:
+
+1: AREvalPrimary
+2: ARterm
+3: AREvalE
+4: ARMassignmentList
+5: ARMassignmentList
+6: ARMassignmentList
